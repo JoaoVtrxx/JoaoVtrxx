@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/joaovtrsilvaa/">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="discordapp.com/users/joaovtrxx">
+<a href="https://discordapp.com/users/532311439952707624/">
 <img alt="Twitch" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </p>
