@@ -1,15 +1,15 @@
 
 <h1 align="center"> Olá! Meu nome é João Vitor 👀</h1>
 
-<p align="center">  
-<img alt="Joao's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrxx&show_icons=true&border_color=ffff00&theme=yeblu&custom_title=João's%20Stats&rank_icon=github">
-<img alt="Joao's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrxx&layout=compact&theme=yeblu&border_color=ffff00">
+<p align="center">
+<img alt="terminal" heigth="160em" src="screenshot.png">
 </p>
 
 #
 
-<p align="center">
-<img alt="terminal" heigth="160em" src="screenshot.png">
+<p align="center">  
+<img alt="Joao's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrxx&show_icons=true&border_color=ffff00&theme=yeblu&custom_title=João's%20Stats&rank_icon=github">
+<img alt="Joao's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrxx&layout=compact&theme=yeblu&border_color=ffff00">
 </p>
 
 <h2 align="center">You can reach me at:</h2>
