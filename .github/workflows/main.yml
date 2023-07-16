@@ -1,48 +1,42 @@
-name: generate animation
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
 
 on:
-    # run automatically every 24 hours
-    schedule:
-        - cron: "0 0 * * *"
-    # allows to manually run the job at any time
-    workflow_dispatch:
-    # run on every push on the main branch
-    push:
-        branches:
-            - main
-jobs:
-    generate:
-        runs-on: ubuntu-latest
-        timeout-minutes: 10
+  # Run automatically every 12 hours
+  schedule:
+  - cron: "0 */12 * * *"
 
-        steps:
-            -
-                # Checkout
-                name: Checkout
-                uses: actions/checkout@v3
-            -
-                # generates a snake game from a github user (<github_user_name>) 
-                name: Generate github-contribution-grid-snake.svg
-                uses: Platane/snk@v2
-                with:
-                    github_user_name: ${{ github.repository_owner }}
-                    outputs: |
-                        dist/github-snake.svg
-                        dist/github-snake-dark.svg?palette=github-dark
-                        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            -
-                # check availability of GitHub Pages
-                name: Check Github Pages status
-                uses: crazy-max/ghaction-github-status@v3
-                with:
-                    pages_threshold: major_outage
-            -
-                # push the content of <build_dir> to a branch
-                name: Push github-contribution-grid-snake.svg to the output brach
-                if: success()
-                uses: crazy-max/ghaction-github-pages@v3
-                with:
-                    target_branch: output
-                    build_dir: dist
-                env:
-                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # Run job manually any time
+  workflow_dispatch:
+
+  # Run job on every push to the main branch
+  push:
+    branches:
+    - main
+      
+# This workflow contains a single job called "build"
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: generate the snake output files
+        uses: Platane/snk/svg-only@v2
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push output files to "output" branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
