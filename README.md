@@ -2,7 +2,7 @@
 <h1 align="center"> Olá! Meu nome é João Vitor 👀</h1>
 
 <p align="center">
-<img alt="terminal" heigth="160em" src="screenshot.png">
+<img alt="terminal" heigth="160em" src="terminal.png">
 </p>
 
 #
