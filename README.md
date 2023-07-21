@@ -1,9 +1,22 @@
 
-<h1 align="center"> Olá! Meu nome é João Vitor 👀</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=3000&color=063A6E&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Jo%C3%A3o+Vitor+%F0%9F%91%80)](https://git.io/typing-svg)
 
-<p align="center">
-<img alt="terminal" heigth="160em" src="terminal.png">
-</p>
+```          
+                        .!!!~^^^^^^^^^^^^^^^^^^^^^^^~!!~              
+                         ^!!^                        ~!!:         Hey, There!
+                         .!!!^^^^^^^^^.    ..:^^^^^^^~!!!.        -----------
+                          :~~~~~~~~~!!~       ~!!!~~~~~~~:        Name: 'João Vitor',    
+                                    ~!!:      .!!~.               Age: 18,
+                                    .!!~       :!!^               Nationality: 'Brazilian'    
+                                     ^!!:       ~!!.              Languages: {'HTML', 'CSS', 'JS', 'C', 'Python'}    
+              ..:::..                :!!~       :!!^              Formation: {     
+                 .:^~~~^^::...       ^!!~        ~!!.               ['Técnico em Informática','IFRS'],   
+                     .:^~!!!!!~~~~~~!!!~.        ~!!:               ['Ciência da Computação','UFSM']  
+                          .:^~!!!!!!!~:...   ..:~!!~              }   
+                              ..:^^~~!!!!!!!!!!!!~:                   
+                                     ..::::::::..       
+
+```
 
 #
 
