@@ -2,19 +2,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&duration=7000&pause=3000&color=063A6E&background=FFFA5300&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Jo%C3%A3o+Vitor+%F0%9F%91%80)](https://git.io/typing-svg)
 
 ```          
-                  .!!!~^^^^^^^^^^^^^^^^^^^^^^^~!!~              
-                   ^!!^                        ~!!:         Hey, There!
-                   .!!!^^^^^^^^^.    ..:^^^^^^^~!!!.        -----------
-                    :~~~~~~~~~!!~       ~!!!~~~~~~~:        Name: 'João Vitor',    
-                              ~!!:      .!!~.               Age: 18,
-                              .!!~       :!!^               Nationality: 'Brazilian'    
-                               ^!!:       ~!!.              Languages: {'HTML', 'CSS', 'JS', 'C', 'Python', 'Dart'}    
-        ..:::..                :!!~       :!!^              Formation: {     
-           .:^~~~^^::...       ^!!~        ~!!.               ['Técnico em Informática','IFRS'],   
-               .:^~!!!!!~~~~~~!!!~.        ~!!:               ['Ciência da Computação','UFSM']  
-                    .:^~!!!!!!!~:...   ..:~!!~              }   
-                        ..:^^~~!!!!!!!!!!!!~:                   
-                               ..::::::::..       
+             .!!!~^^^^^^^^^^^^^^^^^^^^^^^~!!~              
+              ^!!^                        ~!!:         Hey, There!
+              .!!!^^^^^^^^^.    ..:^^^^^^^~!!!.        -----------
+               :~~~~~~~~~!!~       ~!!!~~~~~~~:        Name: 'João Vitor',    
+                         ~!!:      .!!~.               Age: 18,
+                         .!!~       :!!^               Nationality: 'Brazilian'    
+                          ^!!:       ~!!.              Languages: {'HTML', 'CSS', 'JS', 'C', 'Python', 'Dart'}    
+   ..:::..                :!!~       :!!^              Formation: {     
+      .:^~~~^^::...       ^!!~        ~!!.               ['Técnico em Informática','IFRS'],   
+          .:^~!!!!!~~~~~~!!!~.        ~!!:               ['Ciência da Computação','UFSM']  
+               .:^~!!!!!!!~:...   ..:~!!~              }   
+                   ..:^^~~!!!!!!!!!!!!~:                   
+                          ..::::::::..       
 
 ```
 
