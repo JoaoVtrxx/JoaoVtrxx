@@ -8,11 +8,11 @@
                :~~~~~~~~~!!~       ~!!!~~~~~~~:        Name: 'João Vitor',    
                          ~!!:      .!!~.               Age: 18,
                          .!!~       :!!^               Nationality: 'Brazilian'    
-                          ^!!:       ~!!.              Languages: {'HTML', 'CSS', 'JS', 'C', 'Python', 'Dart'}    
-   ..:::..                :!!~       :!!^              Formation: {     
-      .:^~~~^^::...       ^!!~        ~!!.               ['Técnico em Informática','IFRS'],   
-          .:^~!!!!!~~~~~~!!!~.        ~!!:               ['Ciência da Computação','UFSM']  
-               .:^~!!!!!!!~:...   ..:~!!~              }   
+                          ^!!:       ~!!.              Formation: {    
+   ..:::..                :!!~       :!!^                ['Técnico em Informática','IFRS'],  
+      .:^~~~^^::...       ^!!~        ~!!.               ['Ciência da Computação','UFSM']     
+          .:^~!!!!!~~~~~~!!!~.        ~!!:             }   
+               .:^~!!!!!!!~:...   ..:~!!~                 
                    ..:^^~~!!!!!!!!!!!!~:                   
                           ..::::::::..       
 
