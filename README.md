@@ -16,6 +16,10 @@
 
 Building mobile and web apps. Mostly Flutter and React Native, some Next.js on the side.
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="420" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img alt="Contribution snake" src="./dist/github-snake.svg" />
+</picture>
 
 [linkedin](https://www.linkedin.com/in/joão-vitor-da-silva-3750a325a/) · [discord](https://discordapp.com/users/532311439952707624/) · [email](mailto:your@email.com)
