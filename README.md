@@ -16,6 +16,6 @@
 
 Building mobile and web apps. Mostly Flutter and React Native, some Next.js on the side.
 
-<img src="https://streak-stats.demolab.com?user=JoaoVtrxx&theme=transparent&hide_border=true&border_radius=0&card_width=420&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Commit streak" width="420" />
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="420" /></a>
 
 [linkedin](https://www.linkedin.com/in/joão-vitor-da-silva-3750a325a/) · [discord](https://discordapp.com/users/532311439952707624/) · [email](mailto:your@email.com)
