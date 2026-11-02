@@ -23,4 +23,4 @@ Founder & Sole Full-Stack Developer - ArquivoAgro
   <img alt="Contribution snake" src="./dist/github-snake.svg" />
 </picture>
 
-[linkedin](https://www.linkedin.com/in/joaovtrsila) · [email](mailto:joao-silva.1@acad.ufsm.br)
+[linkedin](https://www.linkedin.com/in/joaovtrsilva) · [email](mailto:joao-silva.1@acad.ufsm.br)
